@@ -1,0 +1,9 @@
+			@font-face {
+				font-family:'aiteng';
+				src: url(https://api.alwolf.cn/font/mc/aiteng.ttf);
+			}
+			.font-aiteng{
+				font-family: 'aiteng';
+				font-size: 50px;
+				text-shadow: none;
+			}
