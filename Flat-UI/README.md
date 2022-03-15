@@ -1,5 +1,7 @@
 
-# [Flat UI Free](https://designmodo.github.io/Flat-UI/)
+# [Flat UI Free](https://designmodo.github.io/Flat-UI/)镜像站
+
+提供CDN服务
 
 Flat UI is a beautiful theme for [Bootstrap](http://getbootstrap.com). We have redesigned many of its components to look flat in every pixel.
 
