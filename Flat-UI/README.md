@@ -1,5 +1,5 @@
 
-# [Flat UI Free](https://designmodo.github.io/Flat-UI/)镜像站
+# [Flat UI Free](https://cdn.alwolf.cn/Flat-UI/)镜像站
 
 提供CDN服务
 
@@ -9,7 +9,7 @@ To get started, check out [getting started page](https://designmodo.github.io/Fl
 
 ## Links:
 
-+ [Demo Page](https://designmodo.github.io/Flat-UI/)
++ [Demo Page](https://cdn.alwolf.cn/Flat-UI/)
 + [Download PSD](https://designmodo.com/flat-free/) (for designers)
 + [Flat UI Pro 1.4.0](https://designmodo.com/flat/) (from $39)
 
